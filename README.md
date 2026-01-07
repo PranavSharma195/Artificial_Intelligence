@@ -50,7 +50,7 @@ streamlit run app.py
 
 Artificial_Intelligence/  
 ├── app.py - Streamlit application for real-time car price prediction  
-├── Car_Price_Prediction.ipynb - Model training, evaluation, and analysis  
+├── 23048577_Pranav_Sharma.ipynb - Model training, evaluation, and analysis  
 ├── car_dataset.csv - Original dataset containing car features and prices  
 ├── lr_model_before.pkl - Linear Regression model before hyperparameter tuning  
 ├── lr_model_after.pkl - Linear Regression model after hyperparameter tuning  
@@ -61,8 +61,7 @@ Artificial_Intelligence/
 ├── feature_columns.pkl - List of features used for prediction  
 ├── X_test.pkl - Test set features for model evaluation  
 ├── y_test.pkl - Test set labels (actual car prices)  
-├── Car_Price_Prediction.pdf - Project report and documentation  
-└── README.md - This documentation file
+├──README.md - This documentation file
 
 ---
 
